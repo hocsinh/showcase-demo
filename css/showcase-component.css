@@ -1,0 +1,29 @@
+/* --- sidebar menu ---*/
+.sidebar {
+    background-color: #275776;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+.sidebar header {
+    background-color: #173446;
+    text-align: center;
+}
+.sidebar header a {
+    color: #fff;
+    display: block;
+    text-decoration: none;
+}
+.sidebar header a:hover {
+    color: #fff;
+}
+.sidebar .nav a{
+    background: none;
+    border-bottom: 1px solid #A1BBCC;
+    color: #CFD8DC;
+}
+.sidebar .nav a:hover{
+    background: none;
+    color: #ECEFF1;
+}
